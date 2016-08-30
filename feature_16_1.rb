@@ -1,1 +1,1 @@
-Feature 16_1
+puts "Feature 16_1"
